@@ -1,0 +1,4 @@
+project_id = "lmmgumlvokfqwlqegeao"
+
+[functions.github-clone]
+verify_jwt = false
